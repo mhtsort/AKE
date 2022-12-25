@@ -35,7 +35,7 @@ Automatic Keyword Extraction Methods Comparison
 
 * **ake_document.py**
 
-  Basic class representing a document. Use as a parent class for every document type. Different datasets contain document data organized in a different manner. For example some datasets contain one file per document and use markup to delimit abstract from main text. Other datasets divide each document in multiple files, each representing a part of the document or other data. eg authors, keywords etc
+  Basic class representing a document. Used as a parent class for every document type. Different datasets contain document data organized in a different manner. For example some datasets contain one file per document and use markup to delimit abstract from main text. Other datasets divide each document in multiple files, each representing a part of the document or other data. eg authors, keywords etc
 
 * **krapivin_document.py**
 
