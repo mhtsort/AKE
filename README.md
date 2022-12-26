@@ -24,7 +24,7 @@ Automatic Keyword Extraction Methods Comparison
    > Για να χρησιμοποιήσουμε στη συνέχεια το αρχείο αυτό
    >
    > ```
-   > console pip **install** -r requirements.txt
+   > console pip install -r requirements.txt
    > ```
    >
    > 
